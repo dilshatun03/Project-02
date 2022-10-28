@@ -1,2 +1,2 @@
-# Project03
-https://dilshatun03.github.io/Project03/
+# Project02
+https://dilshatun03.github.io/Project02/
