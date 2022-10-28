@@ -1,2 +1,2 @@
 # Project02
-https://dilshatun03.github.io/Project02/
+https://dilshatunproject02.netlify.app/
